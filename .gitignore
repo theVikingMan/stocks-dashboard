@@ -1,0 +1,3 @@
+node_modules
+flask-backend/core/__pycache__
+flask-backend/env
